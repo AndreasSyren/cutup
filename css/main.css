@@ -1,0 +1,38 @@
+body{
+
+	background-image: url('http://subtlepatterns.com/patterns/sativa.png');
+	
+}
+div{
+
+	background-color: #fff;
+	height: 100%;
+}
+legend{
+	font-family: 'Special Elite', cursive;
+	font-size: 1.5em;
+	background-color: none;
+}
+h1{
+	font-family: 'Special Elite', cursive;
+	font-size: 3.0em;
+}
+textarea{ 
+	height: auto; 
+}
+blockquote{
+	width: 60%;
+
+}
+h2{
+	font-family: 'Special Elite', cursive;
+	font-size: 1.5em;
+	background-color: none;
+}
+div .content {
+	height: auto;
+	border: 1px solid #DDDDDD;
+    margin: 1.125rem 0;
+    padding: 1.25rem; 
+}
+
